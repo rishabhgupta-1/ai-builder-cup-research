@@ -1,7 +1,8 @@
-# AI Builder Cup JAPAC 2026: idea research
+# AI Builder Cup JAPAC 2026: our ideas, explained simply
 
-Interactive research brief for our Google AI Builder Cup JAPAC 2026 entry: BFSI, Manufacturing and Sustainability problem statements, step-by-step user journeys, similar hackathon projects, rules, tech readiness and a ranked shortlist.
+Team page for our Google AI Builder Cup JAPAC 2026 entry. Every idea across BFSI, Manufacturing and Sustainability, explained as a short story with a before-and-after picture, how it works, what we would use to build it, and our call.
 
-Open the live page: https://rishabhgupta-1.github.io/ai-builder-cup-research/
+- Main page: https://rishabhgupta-1.github.io/ai-builder-cup-research/
+- Detailed research (numbers, sources, competitors, rules): https://rishabhgupta-1.github.io/ai-builder-cup-research/research.html
 
-Prepared Oct 7, 2026 from desk research. Links in the page point to the original sources.
+Prepared Oct 2026 from desk research.
